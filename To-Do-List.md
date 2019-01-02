@@ -9,7 +9,11 @@
 
 [mlcourses.ai](https://mlcourse.ai/)
 
+[CS 188: Introduction to Artificial Intelligence, Fall 2018](https://inst.eecs.berkeley.edu/~cs188/fa18/)
+[Video](https://www.bilibili.com/video/av39489278)
 
+
+[AI算法工程师手册](http://www.huaxiaozhuan.com/)
 机器学习
 
 
